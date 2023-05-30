@@ -556,7 +556,7 @@ There are `1000 users`  in Algeria. You need at least `6 followers` to be on thi
 		</td>
 		<td>Soft-lines Llc </td>
 		<td>No Twitter Username</td>
-		<td>Algeria</td>
+		<td>Eloued, Algeria</td>
 		<td>491</td>
 	</tr>
 	<tr>
